@@ -869,8 +869,8 @@ app.post("/send-notification", (req, res) => {
           const notificationMessage = {
             type: "text",
             text: `รายการซ่อมของคุณ
-          -${status}- 
-          เวลาซ่อมเสร็จสิ้นโดยประมาณ: ${estimate_time}`,
+-${status}- 
+เวลาซ่อมเสร็จสิ้นโดยประมาณ: ${estimate_time}`,
           };
 
           client

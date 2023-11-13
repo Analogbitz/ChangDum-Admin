@@ -138,6 +138,9 @@ const UpdateData = (e) => {
                   <MenuItem value="ช่างซี่">
                     <em>ช่างซี่</em>
                   </MenuItem>
+                  <MenuItem value="ช่างดำ">
+                    <em>ช่างดำ</em>
+                  </MenuItem>
                 </Select>
               </FormControl>
 
